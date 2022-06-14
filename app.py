@@ -4,8 +4,8 @@ import gtts
 import boto3
 
 region='us-east-1'
-accessKey=''
-secretAccessKey=''
+accessKey='AKIAXHI5XG5NL27XPJNL'
+secretAccessKey='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'
 
 st.title('Rapid Document Conversion - Amazon Lens demo')
 
